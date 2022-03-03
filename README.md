@@ -1,5 +1,11 @@
 # KeyStone Game
-My coursework for my Advanced Games Technology course (INM710) at City, University of London. The working title I had for the game is 'Keystone'. The basic concept is the player steps into the role of an alien on a dying planet. The objective is to gather the keystones in order to save the world
+My coursework for my Advanced Games Technology course (INM710) at City, University of London. The working title I had for the game is 'Keystone'. The basic concept is the player steps into the role of an alien on a dying planet. The objective is to gather the keystones in order to save the world.
+
+All files concerning the project are in the Keystone.zip file.
+
+To play the game, run AGT_TEMPLATE/game/game.exe. Warning: game audio may be loud on some computers.
+
+To read the full documentation for the coursework, open Documentation/'Milestone 2 Report.pdf'
 
 Controls:
 W - Forward,
